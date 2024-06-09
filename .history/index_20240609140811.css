@@ -1,0 +1,26 @@
+h2  {
+    text-align: left;
+    margin: 10px;
+}
+
+body {
+    border
+    text-align: center;   
+    border-bottom: 2px solid black;
+    align-items: center;
+}
+form{
+    text-align: left;
+     
+    border: 2px solid;
+    border color: light grey;
+    margin: 100px;
+    width: 500px;
+
+}   
+button{
+    text-align: center;
+    align-items: center;
+    margin: 25px;
+
+}

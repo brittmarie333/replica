@@ -1,0 +1,17 @@
+h2  {
+    text-align: left;
+}
+
+body {
+    text-align: center;   
+    border-bottom: 2px solid black;
+}
+form{
+    text-align: left;
+    border: 2px solid;
+    border color: light grey;
+    margin: 100px;
+    width: 500px;
+
+}   
+button

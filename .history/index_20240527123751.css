@@ -1,0 +1,14 @@
+h2  {
+    text-align: left;
+}
+
+body {
+    text-align: center;   
+    border-bottom: 2px solid black;
+}
+form{
+    border: 2px solid;
+    border color: light grey;
+    mar: 100px;
+    width: 500px;
+}   
